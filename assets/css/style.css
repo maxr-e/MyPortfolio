@@ -149,7 +149,8 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    /* color: #ffffff; */
+    color: black
 }
 
 .social-media-marketing {
@@ -202,4 +203,9 @@ p {
 .aside {
    font-size: 20px;
    margin-left: 15px;
+}
+
+#temp-font {
+    font-size: medium;
+    text-decoration-color: black;
 }
