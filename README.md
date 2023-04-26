@@ -8,9 +8,10 @@ While I have pivoted from a career in biology to software development, I see sev
 ## Usage
 
 Check me out at:
-GitHub: maxr-e
-LinkedIn: https://www.linkedin.com/in/maximilian-r-e/
-Twitter: @mx_mxwell
+
+-GitHub: maxr-e
+-LinkedIn: https://www.linkedin.com/in/maximilian-r-e/
+-Twitter: @mx_mxwell
 
 ![boy watching sunset](assets\images\boy-in-grass.JPG)
 
@@ -22,7 +23,7 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Maximilian Royal-Eisenberg]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
