@@ -10,7 +10,9 @@ While I have pivoted from a career in biology to software development, I see sev
 Check me out at:
 
 -GitHub: maxr-e
+
 -LinkedIn: https://www.linkedin.com/in/maximilian-r-e/
+
 -Twitter: @mx_mxwell
 
 ![boy watching sunset](assets\images\boy-in-grass.JPG)
